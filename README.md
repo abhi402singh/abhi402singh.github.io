@@ -1,8 +1,8 @@
 # Hi, I'm Abhishek Pratap Singh 👋
 
-## Senior Software Engineer | Java Backend Engineer
+## Senior Software Engineer | Java Fullstack Developer
 
-Experienced software engineer with expertise in building scalable backend systems and full-stack applications.
+Experienced software engineer focused on scalable backend systems, cloud-native applications, and modern fullstack development.
 
 ### Tech Stack
 - Java
@@ -10,26 +10,20 @@ Experienced software engineer with expertise in building scalable backend system
 - Microservices
 - Node.js
 - React.js
+- TypeScript
 - REST APIs
 - MySQL
 - MongoDB
 - Docker
-- AWS
+- GCP Cloud
 
-### Current Focus
-- Java Backend Development
-- System Design & LLD
-- Data Structures & Algorithms
-- Scalable Distributed Systems
-
-### Experience
+### Expertise
 - Backend application development
+- Fullstack web applications
 - API architecture and integrations
 - Performance optimization
+- System Design & LLD
 - Enterprise application development
-
-### Goals
-Preparing for Senior Software Engineer roles at top product companies like Walmart, Amazon, and similar organizations.
 
 ### Connect With Me
 - GitHub: https://github.com/abhi402singh
